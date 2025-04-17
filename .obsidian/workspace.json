@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "mercadopago/checkoutpro/certificaciones.md",
+                "file": "mercadopago/urls.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "certificaciones"
+              "title": "urls"
             }
           }
         ],
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "mercadopago/checkoutpro/certificaciones.md",
+                "file": "mercadopago/urls.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for certificaciones"
+              "title": "Backlinks for urls"
             }
           },
           {
@@ -127,12 +127,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "mercadopago/checkoutpro/certificaciones.md",
+                "file": "mercadopago/urls.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from certificaciones"
+              "title": "Outgoing links from urls"
             }
           },
           {
@@ -154,10 +154,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "mercadopago/checkoutpro/certificaciones.md"
+                "file": "mercadopago/urls.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of certificaciones"
+              "title": "Outline of urls"
             }
           }
         ]
@@ -180,8 +180,9 @@
   },
   "active": "046dceab396ea1c0",
   "lastOpenFiles": [
-    "github-sync/config-linux.md",
     "mercadopago/checkoutpro/certificaciones.md",
+    "mercadopago/urls.md",
+    "github-sync/config-linux.md",
     "mercadopago/checkoutpro",
     "mercadopago",
     "github-sync/config-windows.md",

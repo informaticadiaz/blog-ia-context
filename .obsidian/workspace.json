@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "github-sync/config-linux.md",
+                "file": "mercadopago/checkoutpro/certificaciones.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "config-linux"
+              "title": "certificaciones"
             }
           }
         ],
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "github-sync/config-linux.md",
+                "file": "mercadopago/checkoutpro/certificaciones.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for config-linux"
+              "title": "Backlinks for certificaciones"
             }
           },
           {
@@ -127,12 +127,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "github-sync/config-linux.md",
+                "file": "mercadopago/checkoutpro/certificaciones.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from config-linux"
+              "title": "Outgoing links from certificaciones"
             }
           },
           {
@@ -154,10 +154,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "github-sync/config-linux.md"
+                "file": "mercadopago/checkoutpro/certificaciones.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of config-linux"
+              "title": "Outline of certificaciones"
             }
           }
         ]
@@ -178,10 +178,13 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "f0fd557e65d7a7dd",
+  "active": "046dceab396ea1c0",
   "lastOpenFiles": [
-    "github-sync/config-windows.md",
     "github-sync/config-linux.md",
+    "mercadopago/checkoutpro/certificaciones.md",
+    "mercadopago/checkoutpro",
+    "mercadopago",
+    "github-sync/config-windows.md",
     "Untitled.md",
     "github-sync",
     "Welcome.md"

@@ -13,15 +13,8 @@ Además de los SDK, es posible identificar sus integraciones a través de la API
 
 Agrega los códigos de identificación y reemplaza por el valor necesario: `INTEGRATOR_ID`.
 
-  
-
 ```js
-
 const requestOptions = {
-
 'integratorId': 'INTEGRATOR_ID',
-
 };
-
 ```
-

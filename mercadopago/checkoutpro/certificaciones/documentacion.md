@@ -8,7 +8,7 @@ Nuestro objetivo es validar la calidad de su trabajo, verificando que tienen las
 
 ## ¿Cómo funciona?
 
-Para obtener la certificación, tenés que resolver un desafío práctico de integración con nuestro Checkout Pro en una tienda online creada por vos.
+Para obtener la certificación, tenes que resolver un desafío práctico de integración con nuestro Checkout Pro en una tienda online creada por vos.
 
 Se te solicitará un conjunto de especificaciones para realizar una simulación de pago utilizando tus propias credenciales y usuarios de vendedor y comprador, además de los datos de una tarjeta de prueba que te proporcionaremos.
 
@@ -123,14 +123,14 @@ Con la preferencia creada, ahora configurá los detalles del producto que se uti
 
 Prestá atención a las siguientes especificaciones:
 
-| Campo | Valor |
-|-------|-------|
-| **ID** | Ingresá 4 dígitos numéricos de tu elección |
-| **Nombre del producto** | Definí un nombre para el producto |
+| Campo                        | Valor                                                 |
+| ---------------------------- | ----------------------------------------------------- |
+| **ID**                       | Ingresá 4 dígitos numéricos de tu elección            |
+| **Nombre del producto**      | Definí un nombre para el producto                     |
 | **Descripción del producto** | "Dispositivo de tienda móvil de comercio electrónico" |
-| **URL de la imagen** | URL de la imagen deseada para el producto |
-| **Cantidad** | "1" |
-| **Precio** | Superior a US$1* |
+| **URL de la imagen**         | URL de la imagen deseada para el producto             |
+| **Cantidad**                 | "1"                                                   |
+| **Precio**                   | Superior a US$1*                                      |
 
 *Considerá el valor equivalente en tu moneda local.
 

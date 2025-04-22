@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "mercadopago/checkoutpro/certificaciones.md",
-                "mode": "source",
+                "file": "mercadopago/checkoutpro/certificaciones/implementacion/implementacion.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "certificaciones"
+              "title": "implementacion"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "c1587f74c2ced9ca",
@@ -166,13 +167,16 @@
   },
   "active": "c232597f537661d9",
   "lastOpenFiles": [
+    "mercadopago/checkoutpro/certificaciones/implementacion/presentacion.md",
+    "mercadopago/checkoutpro/certificaciones/implementacion/implementacion.md",
+    "mercadopago/checkoutpro/certificaciones/documentacion.md",
+    "mercadopago/checkoutpro/certificaciones/implementacion",
+    "mercadopago/checkoutpro/certificaciones.md",
     "mercadopago/checkoutpro/certificaciones/app/implementacion.md",
-    "mercadopago/checkoutpro/certificaciones/certificacion.md",
     "mercadopago/checkoutpro/certificaciones/app",
     "git/comandos-git.md",
     "git",
     "mercadopago/checkoutpro/certificaciones/Untitled.md",
-    "mercadopago/checkoutpro/certificaciones.md",
     "mercadopago/checkoutpro/certificaciones",
     "Welcome.md",
     "mercadopago/urls.md",

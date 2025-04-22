@@ -1,4 +1,4 @@
-# Certificacion
+# Certificación
 
 Los miembros certificados del programa de socios del Mercado Pago, el `<dev>program`, pueden identificar sus integraciones para acceder a los beneficios del programa ya sean estas integraciones antiguas o nuevas. Por eso, no olvides incluir tus credenciales en todas las integraciones que realices.
 

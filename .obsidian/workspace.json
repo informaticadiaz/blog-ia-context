@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "git/comandos-git.md",
+                "file": "mercadopago/checkoutpro/certificaciones/implementacion/presentacion.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "comandos-git"
+              "title": "presentacion"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "c1587f74c2ced9ca",
@@ -167,7 +166,23 @@
   },
   "active": "0f8559f2ccd33edb",
   "lastOpenFiles": [
+    "mercadopago/checkoutpro/certificaciones/certificacion.md",
+    "mercadopago/checkoutpro/certificaciones/implementacion/implementacion.md",
     "mercadopago/checkoutpro/certificaciones/implementacion/comandos/01.md",
+    "mercadopago/checkoutpro/certificaciones/implementacion/comandos/14.md",
+    "mercadopago/checkoutpro/certificaciones/implementacion/comandos/13.md",
+    "mercadopago/checkoutpro/certificaciones/implementacion/comandos/12.md",
+    "mercadopago/checkoutpro/certificaciones/implementacion/comandos/11.md",
+    "mercadopago/checkoutpro/certificaciones/implementacion/comandos/10.md",
+    "mercadopago/checkoutpro/certificaciones/implementacion/comandos/09.md",
+    "mercadopago/checkoutpro/certificaciones/implementacion/comandos/08.md",
+    "mercadopago/checkoutpro/certificaciones/implementacion/comandos/07.md",
+    "mercadopago/checkoutpro/certificaciones/implementacion/comandos/06.md",
+    "mercadopago/checkoutpro/certificaciones/implementacion/comandos/05.md",
+    "mercadopago/checkoutpro/certificaciones/implementacion/comandos/04.md",
+    "mercadopago/checkoutpro/certificaciones/implementacion/comandos/03.md",
+    "mercadopago/checkoutpro/certificaciones/implementacion/comandos/02.md",
+    "git/comandos-git.md",
     "Welcome.md",
     "Untitled.md",
     "terminal/powershell/1.md",
@@ -181,23 +196,7 @@
     "terminal/cmd/directorios",
     "terminal/cmd",
     "terminal",
-    "mercadopago/checkoutpro/certificaciones/implementacion/comandos/14.md",
-    "mercadopago/checkoutpro/certificaciones/implementacion/comandos/13.md",
-    "mercadopago/checkoutpro/certificaciones/implementacion/comandos/12.md",
-    "mercadopago/checkoutpro/certificaciones/implementacion/implementacion.md",
-    "mercadopago/checkoutpro/certificaciones/implementacion/comandos/11.md",
-    "mercadopago/checkoutpro/certificaciones/implementacion/comandos/10.md",
-    "mercadopago/checkoutpro/certificaciones/implementacion/comandos/09.md",
-    "mercadopago/checkoutpro/certificaciones/implementacion/comandos/08.md",
-    "mercadopago/checkoutpro/certificaciones/implementacion/comandos/07.md",
-    "mercadopago/checkoutpro/certificaciones/implementacion/comandos/06.md",
-    "mercadopago/checkoutpro/certificaciones/implementacion/comandos/05.md",
-    "mercadopago/checkoutpro/certificaciones/implementacion/comandos/04.md",
-    "mercadopago/checkoutpro/certificaciones/implementacion/comandos/03.md",
-    "mercadopago/checkoutpro/certificaciones/implementacion/comandos/02.md",
     "mercadopago/checkoutpro/certificaciones/implementacion/comandos",
-    "Untitled 1.md",
-    "mercadopago/checkoutpro/certificaciones/app/imlementacion.md",
     "mercadopago/checkoutpro/certificaciones/implementacion",
     "mercadopago/checkoutpro/certificaciones/app",
     "mercadopago/checkoutpro/certificaciones",

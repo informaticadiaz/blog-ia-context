@@ -1,28 +1,73 @@
 # Comandos comunes para trabajar con repositorios de GitHub
 
-1. `git add [archivo]` - Añade cambios de un archivo específico al área de preparación (staging).
+1.   Añade cambios de un archivo específico al área de preparación (staging).
 
-2. `git add .` - Añade todos los cambios de archivos al área de preparación.
+```bash
+git add [archivo]
+```
 
-3. `git commit -m "[mensaje]"` - Guarda los cambios en el historial del repositorio con un mensaje descriptivo.
+2.  Añade todos los cambios de archivos al área de preparación.
 
-4. `git status` - Muestra el estado actual del repositorio, archivos modificados y preparados.
+```bash
+git add .
+```
 
-5. `git push origin [rama]` - Envía los commits locales a la rama especificada en el repositorio remoto.
+3. Guarda los cambios en el historial del repositorio con un mensaje descriptivo.
 
-6. `git pull origin [rama]` - Obtiene y fusiona los cambios del repositorio remoto a tu copia local.
+```bash
+git commit -m "[mensaje]"
+```
 
-7. `git branch` - Lista todas las ramas locales del repositorio.
+4. Muestra el estado actual del repositorio, archivos modificados y preparados.
 
-8. `git branch [nombre-rama]` - Crea una nueva rama con el nombre especificado.
+```bash
+git status
+```
 
-9. `git checkout [rama]` - Cambia a la rama especificada.
+5. Envía los commits locales a la rama especificada en el repositorio remoto.
 
-10. `git checkout -b [rama]` - Crea una nueva rama y cambia a ella en un solo comando.
+```bash
+git push origin [rama]
+```
 
-11. `git merge [rama]` - Fusiona la rama especificada con la rama actual.
+6.  Obtiene y fusiona los cambios del repositorio remoto a tu copia local.
+
+```bash
+git pull origin [rama]
+```
+
+7.  Lista todas las ramas locales del repositorio.
+
+```bash
+git branch
+```
+
+8. Crea una nueva rama con el nombre especificado.
+
+```bash
+git branch [nombre-rama]
+```
+
+9. Cambia a la rama especificada.
+
+```bash
+git checkout [rama]
+```
+
+10. Crea una nueva rama y cambia a ella en un solo comando.
+
+```bash
+git checkout -b [rama]
+```
+
+11. Fusiona la rama especificada con la rama actual.
+
+```bash
+git merge [rama]
+```
 
 12. `git remote add origin [url]` - Conecta tu repositorio local con un repositorio remoto en GitHub.
+
 
 13. `git log` - Muestra el historial de commits del repositorio.
 

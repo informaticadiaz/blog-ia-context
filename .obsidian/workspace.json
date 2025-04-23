@@ -8,49 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "43ef9c459cbb9f07",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Welcome.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Welcome"
-            }
-          },
-          {
-            "id": "046dceab396ea1c0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Untitled"
-            }
-          },
-          {
             "id": "0f8559f2ccd33edb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "terminal/powershell/1.md",
-                "mode": "preview",
+                "file": "git/comandos-git.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1"
+              "title": "comandos-git"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -107,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "c1587f74c2ced9ca",
@@ -195,15 +167,17 @@
   },
   "active": "0f8559f2ccd33edb",
   "lastOpenFiles": [
-    "terminal/windows/directorios/Untitled.md",
+    "mercadopago/checkoutpro/certificaciones/implementacion/comandos/01.md",
+    "Welcome.md",
+    "Untitled.md",
     "terminal/powershell/1.md",
+    "terminal/windows/directorios/Untitled.md",
     "terminal/powershell",
     "terminal/cmd/directorios/2.md",
     "terminal/cmd/directorios/1.md",
     "terminal/cmd/3.md",
     "terminal/cmd/2.md",
     "terminal/cmd/1.md",
-    "mercadopago/checkoutpro/certificaciones/implementacion/comandos/01.md",
     "terminal/cmd/directorios",
     "terminal/cmd",
     "terminal",
@@ -223,9 +197,7 @@
     "mercadopago/checkoutpro/certificaciones/implementacion/comandos/02.md",
     "mercadopago/checkoutpro/certificaciones/implementacion/comandos",
     "Untitled 1.md",
-    "Untitled.md",
     "mercadopago/checkoutpro/certificaciones/app/imlementacion.md",
-    "mercadopago/checkoutpro/certificaciones/implementacion/presentacion.md",
     "mercadopago/checkoutpro/certificaciones/implementacion",
     "mercadopago/checkoutpro/certificaciones/app",
     "mercadopago/checkoutpro/certificaciones",

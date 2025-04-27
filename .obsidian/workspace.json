@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "presentacion"
             }
+          },
+          {
+            "id": "ac28603fb5b37e1f",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.10"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.10"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -164,7 +177,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0f8559f2ccd33edb",
+  "active": "ac28603fb5b37e1f",
   "lastOpenFiles": [
     "mercadopago/checkoutpro/certificaciones/certificacion.md",
     "mercadopago/checkoutpro/certificaciones/implementacion/implementacion.md",
